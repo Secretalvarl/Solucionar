@@ -13,7 +13,16 @@
 
         .img {
            margin-top: 20px
+           
         }
+        
+        .punto:hover{
+			
+		   width: 350px;
+		   height: 250px;
+		   margin: 0 2px;
+           transform: scale(2);
+		}
 
         el {
            
@@ -28,3 +37,10 @@
 	       height: 10%;
 	     
 	   }
+	   
+	   .conteiner{
+		   
+		   display: flex;
+		   justify-content: center;
+	   }
+	   
