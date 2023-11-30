@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            text-align: center;
+            }
+        
+
+        h1{
+            color: #333;
+        }
+
+        .img {
+           margin-top: 20px
+        }
+
+        el {
+           
+            padding: 0;
+        }
+
+        li {
+            margin: 10px ;
+        }
+
+       .p{
+	       height: 10%;
+	     
+	   }
